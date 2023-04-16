@@ -6,7 +6,11 @@ https://pages.vaadin.com/webinar-jooq
 
 ![jOOQ](images/jooq.png)
 
-## Data Model
+## Use Case
+
+![Hurdles](images/hurdles.png)
+
+### Data Model
 
 ```mermaid
 classDiagram
