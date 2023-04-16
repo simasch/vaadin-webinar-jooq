@@ -43,4 +43,4 @@ Athlete --> "*" Result
 
 ### JTAF - Track and Field
 
-[JTAF](http://jtaf.ch/)
+[JTAF Code on GitHub](https://github.com/72services/jtaf4)
