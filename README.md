@@ -6,7 +6,9 @@ https://pages.vaadin.com/webinar-jooq
 
 ![jOOQ](images/jooq.png)
 
-## Track and Field
+## Code Example
+
+### Track and Field Competitions
 
 ![Hurdles](https://upload.wikimedia.org/wikipedia/commons/b/b0/248_samuelsson_110mH_%2834350321784%29.jpg)
 
@@ -39,3 +41,6 @@ Result --> "1" Competition
 Athlete --> "*" Result
 ```
 
+### JTAF - Track and Field
+
+[JTAF](http://jtaf.ch/)
