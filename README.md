@@ -10,7 +10,7 @@ https://pages.vaadin.com/webinar-jooq
 
 ![Hurdles](https://upload.wikimedia.org/wikipedia/commons/b/b0/248_samuelsson_110mH_%2834350321784%29.jpg)
 
-filip bossuyt from Kortrijk, Belgium, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>
+Filip Bossuyt from Kortrijk, Belgium, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 
 ### Data Model
 
