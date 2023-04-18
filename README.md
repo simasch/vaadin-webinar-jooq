@@ -44,3 +44,7 @@ Athlete --> "*" Result
 ### JTAF - Track and Field
 - [JTAF Online](https://jtaf.ch)
 - [Source Code on GitHub](https://github.com/72services/jtaf4)
+
+## Vaadin jOOQ Integration
+
+[jOOQ for Vaadin](https://vaadin.com/directory/component/jooq-for-vaadin)
